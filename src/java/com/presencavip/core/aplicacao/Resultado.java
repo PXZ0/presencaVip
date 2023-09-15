@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author Caio Gustavo
+ * @author Pedro Henrique e Thiago Aparecido
  */
 public class Resultado {
     
