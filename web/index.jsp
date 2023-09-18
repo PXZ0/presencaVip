@@ -22,7 +22,7 @@
 
                     <!-- FORMULARIO - LOGIN -->
                     <section class="box">
-                        
+
                         <h1>PRESENÇA VIP</h1>
                         <form name="login" method="POST" action="presencaVip/home" id="login-form">
 
@@ -41,15 +41,21 @@
                             <button type="submit" class="btn btn-outline btn-block" id="operacao" name="operacao" value="VISUALIZAR" class="button">Entrar</button>
                             <output id="msg" for="nome" >${msg}</output>
                         </form>
-                    
+
                         <span>
                             Não está cadastrado?
-                            <a href="cadastar.html">Clique aqui</a>
+                            <button type="button" class="link" onclick="cadastar()">Clique aqui</button>
                         </span>
                     </section>
 
                 </div>
             </div>
         </main>
+                        
+        <script>
+            function cadastar() {
+                window.location.href = "cadastar.jsp";
+            } 
+        </script>
     </body>
 </html>

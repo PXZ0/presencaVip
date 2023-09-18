@@ -1,0 +1,66 @@
+body{
+    position: relative;
+    display: flex;
+}
+
+.tamanho-login{
+    max-width: 500px;
+    margin: auto;
+    margin-top: 15%;
+    padding: 10px;
+}
+
+.tamanho-btn{
+    width: 100px;
+    margin: 20px;
+}
+
+.div-cadastro-usuario{
+    align-items: center;
+    margin-top: 10%;
+}
+
+.cadastro-user{
+    width: 70%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.listagem-eventos-user{
+    width: 30%;
+    background-color: rgb(101, 156, 219);
+    height: 100vh;
+    color: #fff;
+}
+
+.info-user{
+    width: 70%;
+    height: 100vh;
+    align-items: center;
+}
+
+.form-info-user{
+    width: 50%;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.tabela-listagem-user{
+    margin-top: 15% !important;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.tabela-listagem-user table{
+    width: 100%;
+}
+
+.tabela-listagem-user table tr td{
+    border-bottom: 1px solid #000;
+}
+
+.tamanho-icon{
+    width: 20px;
+    height: auto;
+}

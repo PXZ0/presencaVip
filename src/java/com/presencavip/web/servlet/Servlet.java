@@ -24,7 +24,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Caio Gustavo
+ * @author Pedro Henrique e Thiago Aparecido
  */
 public class Servlet extends HttpServlet {
 
