@@ -12,8 +12,10 @@
         <title>Cadastar</title>
         
         <!-- Styles -->
-        <style rel="stylesheet" href="css/cadastro.css"></style>
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/cadastro.css">
     </head>
+    
     <body>
         <main class="container-fluid">
             <div class="container div-cadastro-usuario">

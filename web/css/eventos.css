@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(44, 43, 43) !important;
+    position: relative;
+    overflow-x: hidden;
+}
+
+main{
+    position: relative;
+}
+
+.form-eventos{
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    position: relative;
+}
+
+.lista-eventos{
+    width: 100%;
+    justify-content: center;
+    height: auto;
+    position: relative;
+}
+
+.input-file{
+    background-color: rgb(255, 255, 255) !important;
+    width: 300px !important;
+    position: relative;
+    margin: 4% 5% !important;
+    border-radius: 20px;
+    padding-top: 3% !important;
+}
+
+.form-dentro{
+    margin: 4% !important;
+    position: relative;
+    align-items: center;
+    right: 5%;
+    width: 65% !important;
+}
+
+.card{
+    max-width: 350px !important; 
+    margin: 2% !important;
+    padding: 1%;
+    position: relative !important;
+    display: flex !important;
+}
+
+.icons{
+    width: 30px;
+    right: 0px;
+}
