@@ -28,7 +28,7 @@ body{
 
 .listagem-eventos-user{
     width: 30%;
-    background-color: rgb(101, 156, 219);
+    background-color: rgb(44, 43, 43);
     height: 100vh;
     color: #fff;
 }
@@ -63,4 +63,8 @@ body{
 .tamanho-icon{
     width: 20px;
     height: auto;
+}
+
+h1{
+    color: #fff;
 }

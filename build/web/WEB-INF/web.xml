@@ -7,6 +7,8 @@
     <servlet-mapping>
         <servlet-name>Servlet</servlet-name>
         <url-pattern>/ConsultarPessoa</url-pattern>
+        <url-pattern>/CadastrarPessoa</url-pattern>
+        <url-pattern>/Home</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
