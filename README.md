@@ -22,7 +22,6 @@ But, this project is part of my personal portfolio, so I want to add improvement
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
 </table>
 
